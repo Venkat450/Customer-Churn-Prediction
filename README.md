@@ -121,4 +121,3 @@ This automatically selects the best probability cutoff.
 
 ---
 
-This project is structured to resemble a production ML workflow suitable for interviews, portfolios, and real-world applications.
